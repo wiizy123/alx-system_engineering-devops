@@ -1,2 +1,2 @@
 #!/bin/bash
-cowsay "The Star Wars IV episode is not possible to play in the terminal"
+echo "The Star Wars IV episode is not possible to play in the terminal"
