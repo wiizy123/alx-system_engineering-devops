@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The Star Wars IV episode is not possible to play in the terminal"
+telnet towel.blinkenlights.nl
